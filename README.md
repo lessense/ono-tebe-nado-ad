@@ -58,9 +58,8 @@ ono-tebe-nado/
 Сборка не нужна. Достаточно открыть `index.html` в браузере (все пути относительные, LiveServer не требуется).
 
 ```bash
-git clone https://github.com/lessense/ono-tebe-nado.git
-cd ono-tebe-nado
-# откройте index.html в Chrome, Firefox или Яндекс Браузере
+git clone https://github.com/lessense/ono-tebe-nado-ad.git
+cd ono-tebe-nado-ad
 ```
 
 ## Автотесты
